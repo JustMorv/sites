@@ -1,0 +1,53 @@
+.main_slider {
+  display: none;
+}
+.main__sitebar {
+  display: none;
+}
+.main__content {
+  max-width: 1000px;
+}
+.main__container {
+  display: block;
+}
+.section__container {
+  width: 80%;
+}
+.text__content div{
+  width: auto;
+  height: 300px;
+  border-radius: 20px;
+  margin-top: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+}
+.text__content .ourSuccess{
+  background-image: url(../img/imagesForPage/klient.jpg);
+}
+.text__content .klient{
+  background-image: url(../img/imagesForPage/klin.jpg);
+}
+
+
+.arcticle__title{
+  display: flex;
+
+}
+.arcticle__title img{
+  width: auto;
+  height: auto;
+  max-height: 250px;
+  max-width: 300px;
+  margin-right: 20px;
+}
+.text__content > ul >li{
+  margin-left: 40px;
+}
+@media (max-width:700px) {
+  .arcticle__title  {
+  display: block;
+  width: 60%;
+  }
+ 
+}

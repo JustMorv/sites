@@ -1,0 +1,666 @@
+[
+    {
+        "id": "001",
+        "img": "img/cart_img/007.png",
+        "title": "4G Wi-Fi роутер Huawei B593PL и 4G LTE антенна Ruba 14 dBi",
+        "brend": "Бренд",
+        "type": "Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "3 910 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/001.png",
+        "title": "Wi-Fi роутер MikroTik hAP mini",
+        "brend": "Бренд",
+        "type": "Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "7 910 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/012.png",
+        "title": "Wi-Fi роутер Tenda F300",
+        "brend": "Бренд",
+        "type": "Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "6 000 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/013.png",
+        "title": "Wi-Fi роутер TP-Link TL-WR840N V4",
+        "brend": "Бренд",
+        "type": "Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "4 000 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/014.png",
+        "title": "Wi-Fi роутер Tenda AC5",
+        "brend": "Бренд",
+        "type": "Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "2 000 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/015.png",
+        "title": "Wi-Fi роутер TP-Link Archer C20(RU)",
+        "brend": "Бренд",
+        "type": "Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "7 000 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/016.png",
+        "title": "Wi-Fi роутер TP-Link TL-WR 740 N ",
+        "brend": "TP-Link",
+        "type": "  Wi-Fi роутер",
+        "speed": "до 300 Mbps",
+        "range": "100 m",
+        "price": "12 000 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/017.png",
+        "title": "Wi-Fi Роутер Tenda N3 ",
+        "brend": "Tenda",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "price": "3 990 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/018.png",
+        "title": "Wi-Fi роутер D-link DAP-1155 ",
+        "brend": "D-Link",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "price": "14 210 ₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/019.png",
+        "title": "Wi-Fi роутер Tenda W316R ",
+        "brend": "IP-COM",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "price": "7 200 ₸",
+        "category": "Wi-Fi Router",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/020.png",
+        "title": "Wi-Fi роутер Tenda F300 ",
+        "brend": "Tenda",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "10 000₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/021.png",
+        "title": "Wi-Fi роутер Tenda FH303 ",
+        "brend": "Tenda",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "10 000₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/022.png",
+        "title": "Wi-Fi роутер Tenda AC5",
+        "brend": "Tenda",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "7 910 ₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/024.png",
+        "title": "Wi-Fi роутер Zyxel NBG-418N",
+        "brend": "ZyXEL",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "11 300 ₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/025.png",
+        "title": "Wi-Fi роутер Tenda AC6 AC1200",
+        "brend": "Tenda",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "13 900 ₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/026.png",
+        "title": "Wi-Fi роутер Tenda AC10U",
+        "brend": "Tenda",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "15 600 ₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "001",
+        "img": "img/cart_img/027.png",
+        "title": "Wi-Fi роутер Zyxel NBG6604",
+        "brend": "ZyXEL",
+        "type": " Wi-Fi роутер",
+        "speed": "до 150 Mbps",
+        "range": "100 m",
+        "category": "Wi-Fi Router",
+        "price": "17 900 ₸",
+        "frequency": "2.4 GHz"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/009.png",
+        "title": "Wi-Fi модем Tenda V300",
+        "brend": "Бренд",
+        "category": "Wi-Fi Modem",
+        "price": "5 000₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/010.png",
+        "title": "Wi-Fi модем TP-Link TD-W8960N(RU)",
+        "brend": "Бренд",
+        "category": "Wi-Fi Modem",
+        "price": "9 000₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/011.png",
+        "title": "Wi-Fi модем ASUS DSL-N10 B1 DSL-N10",
+        "brend": "Бренд",
+        "category": "Wi-Fi Modem",
+        "price": "8 000₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/028.png",
+        "title": "Wi-Fi модем Tenda D1201",
+        "brend": "Бренд",
+        "category": "Wi-Fi Modem",
+        "price": "12 900 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/029.png",
+        "title": "Wi-Fi модем TP-Link TD-W8968",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "12 900 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/030.png",
+        "title": "Wi-Fi модем TP-Link Archer VR300",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "29 990 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/031.png",
+        "title": "Wi-Fi роутер Keenetic Duo",
+        "brend": "Keenetic",
+        "category": "Wi-Fi Modem",
+        "price": "33 750 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/032.png",
+        "title": "Wi-Fi модем TP-Link Archer VR400",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "36 950 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/033.png",
+        "title": "Wi-Fi модем TP-Link Archer VR600",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "55 790 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/034.png",
+        "title": "Wi-Fi модем TP-Link Archer VR2800",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "109 990 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/035.png",
+        "title": "Wi-Fi модем Tenda V12",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "120 990 ₸"
+    },
+    {
+        "id": "002",
+        "img": "img/cart_img/036.png",
+        "title": "Wi-Fi модем Tenda D305",
+        "brend": "TP-Link",
+        "category": "Wi-Fi Modem",
+        "price": "98 990 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/037.png",
+        "title": "Supermicro CSE-813MFTQC-505|X11SCL-F|Xeon E2224|16GB|2x1TB ENT HDD|2xGLAN|500W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "554 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/038.png",
+        "title": "Supermicro CSE-512F-350|X11SCL-F|Xeon E2224|RAM 16GB|2x1TB|2xGLAN|350W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "490 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/039.png",
+        "title": "CSE-733TQ-500|X11SCL-F|Xeon E2224|RAM 32GB DDR4|SSD 480GB S4510|1x1TB Exos|2xGLAN|500W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "670 800 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/039.png",
+        "title": "Supermicro CSE-733T-500|X11SCL-F|Xeon E-2224|16GB RAM|2x240GB SSD Intel S4510|2xGLAN|500W|Tower",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "700 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/037.png",
+        "title": "Supermicro CSE-813MFTQC-505|X11SPL-i|1xXeon 4210R|32GB DDR4 ECC|2x480GB S4510 SSD|1x1TB ENT HDD|500W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "936 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/040.png",
+        "title": "CSE-743AC-668|11DPL-i|1xIntel Xeon Silver 4208|32GB DDR4 ECC|noHDD|RAID 9361-8i|2xGLAN|668W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "1 038 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/041.png",
+        "title": "Supermicro CSE-813MF2TQC-R407|X11DPL-i|Intel Xeon 4208|16GB DDR4 ECC|2x240GB SSD Intel S4510|2xGLAN|2x400W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "970 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/042.png",
+        "title": "CSE-CSE-846BE16-R920/X10DRL-i/Xeon E5-2650v4/8GB RAM DDR4 ECC/noHDD/MR9260/2xGLAN/920W hotswap",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "1 350 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/043.png",
+        "title": "Supermicro CSE-825TQC-R802/X12DPi-N6/2xXeon 6346/RAM 196GB/SSD 4×1.92TB S4510/HDD 4x10TB ENT/2xGLAN/800W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "5 600 500 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/044.png",
+        "title": "CSE-826BE1C-R920/X11DPL-i/1xXeon Silver 4214/32GB DDR4 ECC/2x480GB SSD Intel S4510/RAID MR9361/2x920W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "1 670 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/045.png",
+        "title": "CSE-825TQC-R740LPB/X11DPL-i/Dual Xeon Gold 6130/128GB RAM DDR4 ECC/4x600GB SAS3 HDD/LSI3108 with 2GB/2xGLAN/740W HS",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "4 080 000 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/046.png",
+        "title": "Supermicro SC 745TQ-R920/X10DRC-T4+/Dual Xeon E5-2690v4/128GB DDR4/4x10Gbit/s LAN/HW 3108 RAID/2x480GB SSD/3x1TB SATA3/2x920W",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "3 904 800 ₸"
+    },
+    {
+        "id": "003",
+        "img": "img/cart_img/047.png",
+        "title": "Supermicro CSE-747BTS-R2K20BP/X11DPG-QT/2xXeon 4114/128GB ECC/MR9361/2x900GB/2x6TB/2x10G/2xTesla P100",
+        "brend": "TP-Link",
+        "category": "Сервера",
+        "price": "8 902 800 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/048.png",
+        "title": "Ippon Smart Winner 1500",
+        "brend": "Smart Winner 1000",
+        "category": "Источники питания",
+        "price": "149 800 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/048.png",
+        "title": "Ippon Smart Winner 2000",
+        "brend": "Smart Winner 2000",
+        "category": "Источники питания",
+        "price": "174 800 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/048.png",
+        "title": "Ippon Smart Winner 3000",
+        "brend": "Smart Winner 3000",
+        "category": "Источники питания",
+        "price": "270 800 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/049.png",
+        "title": "ИБП SVC, 1200VA/720W, AVR:165-275В, 3Shuko, Black (V-1200-F-LCD)",
+        "brend": "Black (V-1200-F-LCD)",
+        "category": "Источники питания",
+        "price": "48 990 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/050.png",
+        "title": "UPS, SVC, svc800-F VA Black, V-series, AVR, Black",
+        "brend": "Black V-1200",
+        "category": "Источники питания",
+        "price": "48 990 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/051.png",
+        "title": "ИБП CyberPower, 850VA/425W, AVR:165-290В, USB, RJ11/RJ45,4*C13, Black (UT850EIG)",
+        "brend": " AVR:165-290",
+        "category": "Источники питания",
+        "price": "34 990 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/052.png",
+        "title": "ИБП SVC, 3000VA/2400W, AVR:115-300В, 3Shuko+Клем.К, LCD, Чистая cинусоида, Black (PT-3K)",
+        "brend": " AVR:115-300В",
+        "category": "Источники питания",
+        "price": "149 990 ₸"
+    },
+    {
+        "id": "004",
+        "img": "img/cart_img/053.png",
+        "title": "ИИБП CyberPower, 675VA/360W, AVR:165-290В, 2*Schuko, Black (UTi675E)",
+        "brend": " AVR:165-290В",
+        "category": "Источники питания",
+        "price": "22 990 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/054.png",
+        "title": "Intel Xeon E-2146G (6/12) 3.5/4.5 12MB",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "170 990 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/054.png",
+        "title": "Intel Xeon E-2136 (6/12) 3.3/4.5 12MB",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "150 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/054.png",
+        "title": "Intel Xeon E-2134 (4/8) 3.5/4.3 8MB",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "134 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/055.png",
+        "title": "Intel Xeon E3-1230v6 (4/8) 3.5/3.9 8MB",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "143 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/056.png",
+        "title": "Intel® Xeon® Processor E5-2699 v4 (55M Cache, 2.20 GHz)",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "177 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/056.png",
+        "title": "Intel® Xeon® Processor E5-2687W v4 (30M Cache, 3.00 GHz)",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "237 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/056.png",
+        "title": "Intel® Xeon® Processor E5-2650 v4 (30M Cache, 2.20 GHz)",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "234 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/057.png",
+        "title": "Intel Xeon Gold 5118 (12/24) 2.3/3.2 16.5M",
+        "brend": " Intel Xeon ",
+        "category": "процессоры",
+        "price": "533 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/058.png",
+        "title": "Intel Xeon Silver 4116 (12/24) 2.2/3.0 16,5MB",
+        "brend": "Intel Xeon",
+        "category": "процессоры",
+        "price": "323 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/058.png",
+        "title": "Intel Xeon Silver 4116 (12/24) 2.2/3.0 16,5MB",
+        "brend": "Intel Xeon",
+        "category": "процессоры",
+        "price": "452 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/059.png",
+        "title": "Intel Xeon Bronze 3104 (6/6) 1.7/1.7 8.25MB",
+        "brend": "Intel Xeon",
+        "category": "процессоры",
+        "price": "123 000 ₸"
+    },
+    {
+        "id": "005",
+        "img": "img/cart_img/059.png",
+        "title": "Intel Xeon Bronze 3104 (6/6) 1.7/1.7 8.25MB",
+        "brend": "Intel Xeon",
+        "category": "процессоры",
+        "price": "166 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/060.png",
+        "title": "SSD 960GB Intel D3-S4510 SATA SSDSC2KB960G801",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "102 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/062.png",
+        "title": "HDD 600GB SAS 15K Seagate ST3600057SS ",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "102 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/060.png",
+        "title": "SSD 480GB Intel D3-S4510 SATA SSDSC2KB480G801",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "65 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/061.png",
+        "title": "HDD 1,2TB 10K 2.5″ 128Mb SAS 12Gb/s Seagate Enterprise Performance ST1200MM0088. ",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "123 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/061.png",
+        "title": "HDD 1,2TB 10K 2.5″ 128Mb SAS 12Gb/s Seagate Enterprise Performance ST1200MM0088. ",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "212 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/062.png",
+        "title": "HDD 600GB SAS 15K Seagate ST3600057SS ",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "102 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/062.png",
+        "title": "HDD 600GB SAS 15K Seagate ST3600057SS ",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "68 000 ₸"
+    },
+    {
+        "id": "006",
+        "img": "img/cart_img/060.png",
+        "title": "SSD 960GB Intel D3-S4510 SATA SSDSC2KB960G801",
+        "brend": "Intel",
+        "category": "жосткие диски",
+        "price": "102 000 ₸"
+    },
+    {
+        "id": "007",
+        "img": "img/cart_img/063.png",
+        "title": "RAM 16GB DDR4 ECC RDIMM 2666Mhz Hynix",
+        "brend": "RAM",
+        "category": "оперативная память",
+        "price": "44 000 ₸"
+    },
+    {
+        "id": "007",
+        "img": "img/cart_img/064.png",
+        "title": "RAM 16GB DDR3 RDIMM ECC Micron 1600Mhz",
+        "brend": "RAM",
+        "category": "оперативная память",
+        "price": "60 000 ₸"
+    },
+    {
+        "id": "007",
+        "img": "img/cart_img/065.png",
+        "title": "RAM 32GB RDIMM DDR4 ECC 2933Mhz",
+        "brend": "RAM",
+        "category": "оперативная память",
+        "price": "60 000 ₸"
+    },
+    {
+        "id": "007",
+        "img": "img/cart_img/066.png",
+        "title": "Оперативная память DDR4 DIMM 16GB/3200MHz",
+        "brend": "RAM",
+        "category": "оперативная память",
+        "price": "45 000 ₸"
+    }
+
+
+
+
+
+]
